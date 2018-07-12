@@ -1,3 +1,5 @@
+![A Million Times](https://i.imgur.com/fXRB5b3.png)
+
 # A Million Times
 
 A digital analogue clock inspired by [A Million Times](https://www.youtube.com/watch?v=ExkVIQ60ClM).
